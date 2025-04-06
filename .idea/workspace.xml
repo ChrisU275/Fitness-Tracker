@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dd83a0c-493d-4d2a-b7ce-d8c6bb0f06fd" name="Changes" comment="Added readme changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Chris" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ekTNGVY1plpzP1PGkgEZSxL6nC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainGUI.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JAR Application.ProjectCPSC233demo3GUI.jar.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/flame/OneDrive/Desktop/School Work/Winter 2024/CPSC 233/CPSC233Project/cpsc233projectdemo3gui",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.345977",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\flame\OneDrive\Desktop\School Work\Winter 2024\CPSC 233\CPSC233Project\cpsc233projectdemo3gui" />
+      <recent name="C:\Users\flame\OneDrive\Desktop\School Work\Winter 2024\CPSC 233\CPSC233Project\cpsc233projectdemo3gui\src\main" />
+      <recent name="$PROJECT_DIR$/src/main/java/ca/ucalgary/projectcpsc233demo3gui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.ProjectCPSC233demo3GUI.jar">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ucalgary.projectcpsc233demo3gui.Main" />
+      <module name="ProjectCPSC233demo3GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ucalgary.projectcpsc233demo3gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ucalgary.projectcpsc233demo3gui.MainGUI" />
+      <module name="ProjectCPSC233demo3GUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ucalgary.projectcpsc233demo3gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectCPSC233demo3GUI.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/ProjectCPSC233demo3GUI.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.ProjectCPSC233demo3GUI.jar" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainGUI" />
+        <item itemvalue="Application.MainGUI" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dd83a0c-493d-4d2a-b7ce-d8c6bb0f06fd" name="Changes" comment="" />
+      <created>1712447536785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712447536785</updated>
+      <workItem from="1712555875678" duration="3746000" />
+      <workItem from="1743750606944" duration="122000" />
+      <workItem from="1743804806664" duration="2932000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1712447962242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712447962242</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added all field and methods to controller">
+      <option name="closed" value="true" />
+      <created>1712452929133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712452929133</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Started the function to view all athletes loaded into the program from a file">
+      <option name="closed" value="true" />
+      <created>1712558451007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712558451007</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finished function to view Athletes loaded into program from file">
+      <option name="closed" value="true" />
+      <created>1712558497840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712558497840</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Started save function for GUI">
+      <option name="closed" value="true" />
+      <created>1712558614029</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712558614029</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished saveAction method for GUI">
+      <option name="closed" value="true" />
+      <created>1712558738863</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712558738863</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implemeneted code for BMIbutton">
+      <option name="closed" value="true" />
+      <created>1712784518825</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712784518825</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Created method to print BMI of given athlete">
+      <option name="closed" value="true" />
+      <created>1712784588865</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712784588865</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finished method to print BMI of given athlete">
+      <option name="closed" value="true" />
+      <created>1712784615997</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712784615997</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added case of athlete not being teamAthlete to some functions in menu">
+      <option name="closed" value="true" />
+      <created>1712785852298</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712785852298</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added displayAllAthletes functionality">
+      <option name="closed" value="true" />
+      <created>1712785971587</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712785971587</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Created Add fxml files for adding a new athlete">
+      <option name="closed" value="true" />
+      <created>1712790693852</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712790693852</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Stored the inputs gotten from the GUI">
+      <option name="closed" value="true" />
+      <created>1712791240067</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712791240067</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Can now store a Data object from input in GUI">
+      <option name="closed" value="true" />
+      <created>1712792113951</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712792113951</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fixed function to add a new object and created empty functions for the other GUI buttons">
+      <option name="closed" value="true" />
+      <created>1712866901580</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712866901580</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Finished function for displayAllSports button">
+      <option name="closed" value="true" />
+      <created>1712867045706</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1712867045706</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Finished method to be used for AthletesInSports button">
+      <option name="closed" value="true" />
+      <created>1712867165580</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1712867165580</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Finished AthletesInSports button">
+      <option name="closed" value="true" />
+      <created>1712867243820</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712867243820</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Finished method to be used in AthleteInfo button">
+      <option name="closed" value="true" />
+      <created>1712867309770</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1712867309770</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Finished AthleteInfo button">
+      <option name="closed" value="true" />
+      <created>1712867337040</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1712867337040</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Finished method to be used in AthleteFitnessDetails button">
+      <option name="closed" value="true" />
+      <created>1712867385060</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1712867385060</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Finished AthleteFitnessDetails button">
+      <option name="closed" value="true" />
+      <created>1712867414428</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1712867414428</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Finished the topAthletesNetButton method">
+      <option name="closed" value="true" />
+      <created>1712868373123</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1712868373123</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Finished the topAthletesHoursButton method">
+      <option name="closed" value="true" />
+      <created>1712868720380</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1712868720380</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fixed the way display was working for the top athletes function">
+      <option name="closed" value="true" />
+      <created>1712901081551</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1712901081551</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Fixed the various layouts when buttons are clicked in the GUI">
+      <option name="closed" value="true" />
+      <created>1712903354786</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1712903354786</updated>
+    </task>
+    <task id="LOCAL-00027" summary="adding names and tutorials">
+      <option name="closed" value="true" />
+      <created>1712932573886</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1712932573886</updated>
+    </task>
+    <task id="LOCAL-00028" summary="adding names and tutorials">
+      <option name="closed" value="true" />
+      <created>1712932603603</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1712932603603</updated>
+    </task>
+    <task id="LOCAL-00029" summary="inline comments main">
+      <option name="closed" value="true" />
+      <created>1712932882568</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1712932882568</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add javadoc comments">
+      <option name="closed" value="true" />
+      <created>1712933124702</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1712933124702</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add javadoc comments to MainGUI.java">
+      <option name="closed" value="true" />
+      <created>1712933215718</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1712933215718</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add javadoc comments to MainController.java">
+      <option name="closed" value="true" />
+      <created>1712934804215</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1712934804215</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add javadoc comments to MainController.java">
+      <option name="closed" value="true" />
+      <created>1712935186149</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1712935186149</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add javadoc comments to MainController.java">
+      <option name="closed" value="true" />
+      <created>1712935804315</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1712935804315</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added description for about menu item.">
+      <option name="closed" value="true" />
+      <created>1713235901412</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1713235901412</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added readme changes">
+      <option name="closed" value="true" />
+      <created>1713244978175</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1713244978176</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished method to print BMI of given athlete" />
+    <MESSAGE value="Added case of athlete not being teamAthlete to some functions in menu" />
+    <MESSAGE value="Added displayAllAthletes functionality" />
+    <MESSAGE value="Created Add fxml files for adding a new athlete" />
+    <MESSAGE value="Stored the inputs gotten from the GUI" />
+    <MESSAGE value="Can now store a Data object from input in GUI" />
+    <MESSAGE value="Fixed function to add a new object and created empty functions for the other GUI buttons" />
+    <MESSAGE value="Finished function for displayAllSports button" />
+    <MESSAGE value="Finished method to be used for AthletesInSports button" />
+    <MESSAGE value="Finished AthletesInSports button" />
+    <MESSAGE value="Finished method to be used in AthleteInfo button" />
+    <MESSAGE value="Finished AthleteInfo button" />
+    <MESSAGE value="Finished method to be used in AthleteFitnessDetails button" />
+    <MESSAGE value="Finished AthleteFitnessDetails button" />
+    <MESSAGE value="Finished the topAthletesNetButton method" />
+    <MESSAGE value="Finished the topAthletesHoursButton method" />
+    <MESSAGE value="Fixed the way display was working for the top athletes function" />
+    <MESSAGE value="Fixed the various layouts when buttons are clicked in the GUI" />
+    <MESSAGE value="adding names and tutorials" />
+    <MESSAGE value="inline comments main" />
+    <MESSAGE value="add javadoc comments" />
+    <MESSAGE value="add javadoc comments to MainGUI.java" />
+    <MESSAGE value="add javadoc comments to MainController.java" />
+    <MESSAGE value="Added description for about menu item." />
+    <MESSAGE value="Added readme changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readme changes" />
+  </component>
+</project>

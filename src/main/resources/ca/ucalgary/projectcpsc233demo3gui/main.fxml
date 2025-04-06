@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ca.ucalgary.projectcpsc233demo3gui.MainController">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem fx:id="Close" mnemonicParsing="false" onAction="#CloseAction" text="Close" />
+                  <MenuItem fx:id="Save" mnemonicParsing="false" onAction="#SaveAction" text="Save" />
+                  <MenuItem fx:id="Load" mnemonicParsing="false" onAction="#LoadAction" text="Load" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" onAction="#addNewAthlete" text="Edit">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Add Athlete" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#about" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <center>
+      <Label fx:id="displayNeededInfo" BorderPane.alignment="CENTER" />
+   </center>
+   <left>
+      <VBox prefHeight="369.0" prefWidth="181.0" BorderPane.alignment="CENTER">
+         <children>
+            <TextField fx:id="idForBMI" prefHeight="30.0" prefWidth="180.0" />
+            <Button mnemonicParsing="false" onAction="#BMIbutton" prefHeight="30.0" prefWidth="180.0" text="BMI Of Athlete" />
+            <TextField fx:id="sportToCheck" prefHeight="30.0" prefWidth="180.0" />
+            <Button mnemonicParsing="false" onAction="#athletesInSportButton" prefHeight="30.0" prefWidth="180.0" text="Athlete In Select Sport" />
+            <TextField fx:id="idForAthleteFitnessDetails" prefHeight="30.0" prefWidth="180.0" />
+            <Button mnemonicParsing="false" onAction="#AthleteFitnessDetailsButton" prefHeight="30.0" prefWidth="180.0" text="Athlete Fitness Details" />
+            <TextField fx:id="teamForHours" prefHeight="30.0" prefWidth="180.0" />
+            <Button mnemonicParsing="false" onAction="#topAthletesHoursButton" prefHeight="40.0" prefWidth="180.0" text="Top Athletes &#10;Based on Hours Worked Out&#10;" textAlignment="CENTER" />
+            <TextField fx:id="teamForNetCalories" prefHeight="30.0" prefWidth="180.0" />
+            <Button mnemonicParsing="false" onAction="#topAthletesNetButton" prefHeight="40.0" prefWidth="180.0" text="Top Athletes &#10;Based on Net Calories" textAlignment="CENTER" />
+         </children>
+      </VBox>
+   </left>
+   <right>
+      <VBox prefHeight="369.0" prefWidth="179.0" BorderPane.alignment="CENTER">
+         <children>
+            <TextField fx:id="idForAthleteInfo" prefHeight="30.0" prefWidth="180.0" />
+            <Button mnemonicParsing="false" onAction="#AthleteInfoButton" prefHeight="30.0" prefWidth="180.0" text="Athlete Information" />
+            <Button mnemonicParsing="false" onAction="#displayAllAthletes" prefHeight="30.0" prefWidth="180.0" text="Display All athletes" textAlignment="CENTER">
+               <VBox.margin>
+                  <Insets bottom="10.0" top="10.0" />
+               </VBox.margin>
+            </Button>
+            <Button mnemonicParsing="false" onAction="#displayAllSports" prefHeight="30.0" prefWidth="180.0" text="Display All sports">
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </Button>
+         </children>
+      </VBox>
+   </right>
+   <bottom>
+      <Label fx:id="stautsOfProgram" BorderPane.alignment="CENTER" />
+   </bottom>
+</BorderPane>
